@@ -1,4 +1,6 @@
-## A Web Search Engine for the UIC Domain  
+## A Web Search Engine for the UIC Domain 
+
+Developed a smart search engine using a vector based method for the UIC domain. It consists of a web crawler, indexer, pre-processor and utilizes the PageRank algorithm and query expansion techniques.
 
 ### How to run the code
 1. Open Terminal. 
